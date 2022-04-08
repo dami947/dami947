@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Damian Kolasa</h1>
 
-- 👋 Hi, I’m @dami947
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-kolasa.damian@outlook.com
+- 👋 Hello, my name is Damian Kolasa
+- 👀 I'm interested in motorization, sport and coding
+- 🌱 I'm currently learning front end technologies
+- 💞️ I am open to all cooperation
+- 📫 How to reach me:
+- kolasa.damian@outlook.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
