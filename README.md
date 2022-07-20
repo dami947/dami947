@@ -5,7 +5,7 @@
 
 - 👋 Hello, my name is Damian Kolasa, I am a novice front-end developer with a passion for coding and programming. My goal is to become Junior Front-end Developer in the near future
 - 👀 I'm interested in motorization, sport and programming
-- 🌱 I'm currently learning front end technologies
+- 🌱 I'm currently learning React.js
 - 💞️ I am open to all cooperation
 - 📫 How to reach me:
 - kolasa.damian@outlook.com
